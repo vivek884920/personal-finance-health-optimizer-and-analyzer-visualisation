@@ -1,7 +1,5 @@
 # personal-finance-health-optimizer-and-analyzer-visualisation
 
-# Personal Financial Health Optimizer and Analyzer
-
 This Tableau project helps individuals analyze and optimize their financial health by visualizing and interpreting key personal finance metrics such as income, expenses, savings, debts, and investments.
 
 
